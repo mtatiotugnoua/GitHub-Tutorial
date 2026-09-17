@@ -1,2 +1,1 @@
-# GitHub-Tutorial
-practice of GitHub copilot
+Hey! This is for tutorial purpose.
